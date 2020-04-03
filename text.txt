@@ -1,0 +1,11 @@
+git init
+git status
+git add .
+git commit -m "message"
+
+git commit -a -m "message"
+
+git rm --cached <file>
+git rm --cached .
+git rm --cached -r <file>
+git rm --cached -r .
