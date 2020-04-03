@@ -32,10 +32,14 @@ git branch --help
 git branch -h
 git branch <name>
 git branch -a
-git checkout <branchName>
 git branch -d <branchName>
 
+git checkout <branchName>
+git checkout -b <branchName>
 
+git merge <branchName> (on master branch)
+
+git log --graph
 
 
 
