@@ -9,3 +9,32 @@ git rm --cached <file>
 git rm --cached .
 git rm --cached -r <file>
 git rm --cached -r .
+
+git diff
+git diff --help
+
+git log
+git log --help
+git log -2 --oneline
+git log -p
+git log --stat
+
+git checkout -- filename
+git checkout -- .
+
+git reset HEAD filename
+git reset HEAD .
+git reset id
+
+git reset --hard id
+
+
+
+
+
+
+
+
+
+
+
