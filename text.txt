@@ -28,6 +28,27 @@ git reset id
 
 git reset --hard id
 
+git branch --help
+git branch -h
+git branch <name>
+git branch -a
+git checkout <branchName>
+git branch -d <branchName>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
