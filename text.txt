@@ -71,28 +71,4 @@ git remote add <origin> <https://github.com/tohidpourjalali/project.git>
 
 git push
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+git push -u origin <branchName(develop)>
