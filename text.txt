@@ -41,6 +41,14 @@ git merge <branchName> (on master branch)
 
 git log --graph
 
+git stash --help
+git stash list
+git stash drop <stashName>
+git stash save "message"
+git stash show <stashName>
+git stash show -p <stashName>
+git stash apply <stashName>
+
 
 
 
